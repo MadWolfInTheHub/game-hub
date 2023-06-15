@@ -1,4 +1,4 @@
-import useData from "./UseData";
+import useData from "./useGameData";
 
 interface Platform {
   id: number;
