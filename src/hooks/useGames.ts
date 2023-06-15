@@ -1,4 +1,3 @@
-
 import useData from './UseData';
 import { GameQuery } from '../App';
 
